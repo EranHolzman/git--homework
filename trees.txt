@@ -1,3 +1,6 @@
 oak
 pine
 mango
+banana
+green tree
+cherries
